@@ -95,7 +95,7 @@ const config: Config = {
   customFields: {
     nickname: 'Arvin',
     uid: 'arvinlabs',
-    biography: 'backend, security, blockchain, dan open source.',
+    biography: 'Bwockchain Enginyeew',
     externalLinks: [
       {
         type: 'github',
