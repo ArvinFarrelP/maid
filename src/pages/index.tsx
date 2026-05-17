@@ -97,14 +97,14 @@ function HomeContent() {
               </Link>
             </div>
           </div>
-          <img
+          {/* <img
             // src="/img/yuiju.webp"
             src="/img/chloe.png"
             width={150}
             decoding="async"
             loading="lazy"
             className="block max-md:mt-10 max-md:mx-auto"
-          />
+          /> */}
         </div>
       </div>
     </div>
